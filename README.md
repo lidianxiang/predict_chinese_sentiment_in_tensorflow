@@ -1,0 +1,2 @@
+# predict_chinese_sentiment_in_tensorflow
+使用tensorflow进行中文语料的情感分类
